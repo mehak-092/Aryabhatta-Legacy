@@ -1,2 +1,2 @@
 # Aryabhatta-Legacy
-A comprehensive tribute to Aryabhatta, the ancient Indian mathematician and astronomer who revolutionized the fields of mathematics and astronomy. This repository showcases Aryabhatta's seminal works, including Aryabhattiya - The Gitika and Ganita Padas, in a digital format.
+A comprehensive digital compilation of Aryabhatta's monumental works, Aryabhattiya - The Gitika and Ganita Padas. Explore the profound mathematical and astronomical insights of the ancient Indian scholar, uncovering his enduring contributions to science and humanity.
